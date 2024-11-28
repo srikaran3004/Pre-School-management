@@ -56,17 +56,6 @@ Import it into the preschooldb database.
 Run the Project
 
 Open your browser and visit: http://localhost/preschool
-Screenshots
-1. Home Page
-
-
-2. New Enrollment
-
-
-3. Admin Dashboard
-
-
-4. Admin New Enrollments
 
 Contributions
 Feel free to fork this repository and contribute to the project. Pull requests are welcome!
