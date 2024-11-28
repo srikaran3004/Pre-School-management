@@ -68,40 +68,6 @@ Screenshots
 
 4. Admin New Enrollments
 
-
-Folder Structure
-bash
-Copy code
-preschool/
-│
-├── sql/
-│   └── preschooldb.sql          # SQL file to initialize the database
-│
-├── admin/
-│   ├── dashboard.php            # Admin Dashboard
-│   ├── manage-teachers.php      # Manage teachers
-│   ├── manage-classes.php       # Manage classes
-│   └── ...                      # Other admin features
-│
-├── subadmin/
-│   ├── dashboard.php            # Sub-Admin Dashboard
-│   └── ...                      # Sub-admin features
-│
-├── user/
-│   ├── index.php                # Home Page
-│   ├── schedule-visit.php       # Schedule visit form
-│   ├── enroll-now.php           # Enrollment form
-│   └── ...                      # Other user pages
-│
-├── css/
-│   └── styles.css               # Stylesheet for the project
-│
-├── js/
-│   └── scripts.js               # JavaScript for interactivity
-│
-└── ...
-
-
 Contributions
 Feel free to fork this repository and contribute to the project. Pull requests are welcome!
 
